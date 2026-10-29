@@ -1,0 +1,38 @@
+name: "AuraIntel VPP & Cybernetic Hypervisor Zero-Trust Pipeline"
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+permissions:
+  id-token: write
+  contents: read
+  attestations: write
+
+env:
+  ORG_ID: "320717657398"
+  SOURCE_DATE_EPOCH: "1767225600"
+
+jobs:
+  verify-cybernetic-compliance:
+    name: "Audit Virtual Isolation, Deterministic PID & AAUFSA Compliance"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Immutable Source
+        uses: actions/checkout@v4
+
+      - name: Install Rust Toolchain
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          components: clippy, rustfmt
+
+      - name: Execute Strict Clippy & Unit Tests
+        run: |
+          cargo fmt --all -- --check
+          cargo clippy --all-targets -- -D warnings
+          cargo test --all-targets
+
+      - name: Run Master Cybernetic & AAUFSA Compliance Verifier
+        run: ./scripts/verify_virtual_cybernetic_compliance.sh

@@ -1,0 +1,21 @@
+[package]
+name = "auraintel-vpp-cybernetic-governor"
+version = "1.0.0"
+edition = "2021"
+authors = ["José Emanuel Guadalupe López <jose@auraintel-global.com>"]
+license = "Apache-2.0 AND MIT"
+description = "Deterministic Cybernetic Control Loop, Virtual Node Sandbox & AAUFSA Tax Engine for guadalupelopezjose96-org (320717657398)"
+publish = false
+
+[dependencies]
+sha2 = { version = "0.10.8", default-features = false }
+serde = { version = "1.0.210", default-features = false, features = ["derive", "alloc"] }
+serde_json = { version = "1.0.128", default-features = false, features = ["alloc"] }
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+panic = "abort"
+strip = "symbols"
+overflow-checks = true
