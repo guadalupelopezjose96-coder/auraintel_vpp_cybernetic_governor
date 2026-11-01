@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: auraintel-vpp-cybernetic-governor
+  namespace: vpp-production
+  labels:
+    app: vpp-governor
+    tier: ot-control
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: vpp-governor
+  template:
+    metadata:
+      labels:
+        app: vpp-governor
+      annotations:
+        prometheus.io/scrape: "true"
+        prometheus.io/port: "8083"
+        prometheus.io/path: "/metrics"
+    spec:
+      containers:
+      - name: governor-engine
+        image: ghcr.io/guadalupelopezjose96-coder/auraintel_vpp_cybernetic_governor:v1.0.0
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8083
+          name: http-metrics
+        resources:
+          limits:
+            cpu: "500m"
+            memory: "256Mi"
+          requests:
+            cpu: "100m"
+            memory: "64Mi"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8083
+          initialDelaySeconds: 5
+          periodSeconds: 10
