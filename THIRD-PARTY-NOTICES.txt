@@ -1,48 +1,352 @@
 AVISOS DE SOFTWARE DE CODIGO ABIERTO DE TERCEROS (POL-SEC-OSS-001)
-Fecha: 2026-10-29T16:35:10Z
+Fecha: 2026-11-01T21:22:53Z
 -----------------------------------------------------------------
 Paquete: Cargo.lock (null)
 PURL: N/A
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-codec (0.5.4)
+PURL: pkg:cargo/actix-codec@0.5.4
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-http (3.20.0)
+PURL: pkg:cargo/actix-http@3.20.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-macros (0.2.5)
+PURL: pkg:cargo/actix-macros@0.2.5
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-router (0.5.4)
+PURL: pkg:cargo/actix-router@0.5.4
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-rt (2.15.0)
+PURL: pkg:cargo/actix-rt@2.15.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-server (2.10.0)
+PURL: pkg:cargo/actix-server@2.10.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-service (2.0.3)
+PURL: pkg:cargo/actix-service@2.0.3
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-utils (3.0.2)
+PURL: pkg:cargo/actix-utils@3.0.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-web-codegen (4.5.0)
+PURL: pkg:cargo/actix-web-codegen@4.5.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: actix-web (4.18.1)
+PURL: pkg:cargo/actix-web@4.18.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: adler2 (2.0.1)
+PURL: pkg:cargo/adler2@2.0.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: alloc-no-stdlib (3.0.0)
+PURL: pkg:cargo/alloc-no-stdlib@3.0.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: alloc-stdlib (0.3.0)
+PURL: pkg:cargo/alloc-stdlib@0.3.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: android_system_properties (0.1.6)
+PURL: pkg:cargo/android_system_properties@0.1.6
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: auraintel-vpp-cybernetic-governor (1.0.0)
 PURL: pkg:cargo/auraintel-vpp-cybernetic-governor@1.0.0
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
+Paquete: autocfg (1.5.1)
+PURL: pkg:cargo/autocfg@1.5.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: bitflags (2.13.2)
+PURL: pkg:cargo/bitflags@2.13.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
 Paquete: block-buffer (0.10.4)
 PURL: pkg:cargo/block-buffer@0.10.4
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: brotli-decompressor (6.2.0)
+PURL: pkg:cargo/brotli-decompressor@6.2.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: brotli (9.1.1)
+PURL: pkg:cargo/brotli@9.1.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: bumpalo (3.20.3)
+PURL: pkg:cargo/bumpalo@3.20.3
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: bytes (1.12.1)
+PURL: pkg:cargo/bytes@1.12.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: bytestring (1.5.1)
+PURL: pkg:cargo/bytestring@1.5.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: cc (1.10.0)
+PURL: pkg:cargo/cc@1.10.0
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: cfg-if (1.0.5)
 PURL: pkg:cargo/cfg-if@1.0.5
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
+Paquete: chrono (0.4.45)
+PURL: pkg:cargo/chrono@0.4.45
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: convert_case (0.10.0)
+PURL: pkg:cargo/convert_case@0.10.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: core-foundation-sys (0.8.7)
+PURL: pkg:cargo/core-foundation-sys@0.8.7
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: core_detect (1.0.0)
+PURL: pkg:cargo/core_detect@1.0.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
 Paquete: cpufeatures (0.2.17)
 PURL: pkg:cargo/cpufeatures@0.2.17
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: crc32fast (1.5.3)
+PURL: pkg:cargo/crc32fast@1.5.3
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: crypto-common (0.1.7)
 PURL: pkg:cargo/crypto-common@0.1.7
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
+Paquete: deranged (0.5.9)
+PURL: pkg:cargo/deranged@0.5.9
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: derive_more-impl (2.1.1)
+PURL: pkg:cargo/derive_more-impl@2.1.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: derive_more (2.1.1)
+PURL: pkg:cargo/derive_more@2.1.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
 Paquete: digest (0.10.7)
 PURL: pkg:cargo/digest@0.10.7
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: displaydoc (0.2.7)
+PURL: pkg:cargo/displaydoc@0.2.7
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: encoding_rs (0.8.44)
+PURL: pkg:cargo/encoding_rs@0.8.44
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: errno (0.3.14)
+PURL: pkg:cargo/errno@0.3.14
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: find-msvc-tools (0.1.15)
+PURL: pkg:cargo/find-msvc-tools@0.1.15
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: flate2 (1.1.10)
+PURL: pkg:cargo/flate2@1.1.10
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: fnv (1.0.7)
+PURL: pkg:cargo/fnv@1.0.7
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: foldhash (0.2.0)
+PURL: pkg:cargo/foldhash@0.2.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: form_urlencoded (1.2.2)
+PURL: pkg:cargo/form_urlencoded@1.2.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: futures-core (0.3.34)
+PURL: pkg:cargo/futures-core@0.3.34
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: futures-sink (0.3.34)
+PURL: pkg:cargo/futures-sink@0.3.34
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: futures-task (0.3.34)
+PURL: pkg:cargo/futures-task@0.3.34
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: futures-util (0.3.34)
+PURL: pkg:cargo/futures-util@0.3.34
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: generic-array (0.14.7)
 PURL: pkg:cargo/generic-array@0.14.7
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
+Paquete: http (0.2.12)
+PURL: pkg:cargo/http@0.2.12
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: httparse (1.10.1)
+PURL: pkg:cargo/httparse@1.10.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: httpdate (1.0.3)
+PURL: pkg:cargo/httpdate@1.0.3
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: iana-time-zone-haiku (0.1.2)
+PURL: pkg:cargo/iana-time-zone-haiku@0.1.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: iana-time-zone (0.1.65)
+PURL: pkg:cargo/iana-time-zone@0.1.65
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: icu_collections (2.4.0)
+PURL: pkg:cargo/icu_collections@2.4.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: icu_locale_core (2.4.0)
+PURL: pkg:cargo/icu_locale_core@2.4.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: icu_normalizer (2.4.0)
+PURL: pkg:cargo/icu_normalizer@2.4.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: icu_normalizer_data (2.4.0)
+PURL: pkg:cargo/icu_normalizer_data@2.4.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: icu_properties (2.4.0)
+PURL: pkg:cargo/icu_properties@2.4.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: icu_properties_data (2.4.0)
+PURL: pkg:cargo/icu_properties_data@2.4.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: icu_provider (2.4.0)
+PURL: pkg:cargo/icu_provider@2.4.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: idna (1.1.0)
+PURL: pkg:cargo/idna@1.1.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: idna_adapter (1.2.2)
+PURL: pkg:cargo/idna_adapter@1.2.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: impl-more (0.3.10)
+PURL: pkg:cargo/impl-more@0.3.10
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
 Paquete: itoa (1.0.18)
 PURL: pkg:cargo/itoa@1.0.18
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: js-sys (0.3.107)
+PURL: pkg:cargo/js-sys@0.3.107
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: language-tags (0.3.2)
+PURL: pkg:cargo/language-tags@0.3.2
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: libc (0.2.191)
 PURL: pkg:cargo/libc@0.2.191
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
+Paquete: litemap (0.8.3)
+PURL: pkg:cargo/litemap@0.8.3
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: local-waker (0.1.5)
+PURL: pkg:cargo/local-waker@0.1.5
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: lock_api (0.4.14)
+PURL: pkg:cargo/lock_api@0.4.14
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: log (0.4.35)
+PURL: pkg:cargo/log@0.4.35
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
 Paquete: memchr (2.8.3)
 PURL: pkg:cargo/memchr@2.8.3
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: mime (0.3.17)
+PURL: pkg:cargo/mime@0.3.17
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: miniz_oxide (0.9.1)
+PURL: pkg:cargo/miniz_oxide@0.9.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: mio (1.2.4)
+PURL: pkg:cargo/mio@1.2.4
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: multiversion_no_op (1.0.0)
+PURL: pkg:cargo/multiversion_no_op@1.0.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: num-conv (0.2.2)
+PURL: pkg:cargo/num-conv@0.2.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: num-traits (0.2.19)
+PURL: pkg:cargo/num-traits@0.2.19
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: once_cell (1.21.4)
+PURL: pkg:cargo/once_cell@1.21.4
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: parking_lot (0.12.5)
+PURL: pkg:cargo/parking_lot@0.12.5
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: parking_lot_core (0.9.12)
+PURL: pkg:cargo/parking_lot_core@0.9.12
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: percent-encoding (2.3.2)
+PURL: pkg:cargo/percent-encoding@2.3.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: pin-project-lite (0.2.17)
+PURL: pkg:cargo/pin-project-lite@0.2.17
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: potential_utf (0.1.6)
+PURL: pkg:cargo/potential_utf@0.1.6
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: powerfmt (0.2.1)
+PURL: pkg:cargo/powerfmt@0.2.1
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: proc-macro2 (1.0.107)
@@ -51,6 +355,34 @@ Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: quote (1.0.47)
 PURL: pkg:cargo/quote@1.0.47
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: redox_syscall (0.5.18)
+PURL: pkg:cargo/redox_syscall@0.5.18
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: regex-lite (0.1.9)
+PURL: pkg:cargo/regex-lite@0.1.9
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: rustc_version (0.4.1)
+PURL: pkg:cargo/rustc_version@0.4.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: rustversion (1.0.23)
+PURL: pkg:cargo/rustversion@1.0.23
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: ryu (1.0.23)
+PURL: pkg:cargo/ryu@1.0.23
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: scopeguard (1.2.0)
+PURL: pkg:cargo/scopeguard@1.2.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: semver (1.0.28)
+PURL: pkg:cargo/semver@1.0.28
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: serde (1.0.229)
@@ -69,12 +401,96 @@ Paquete: serde_json (1.0.154)
 PURL: pkg:cargo/serde_json@1.0.154
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
+Paquete: serde_urlencoded (0.7.1)
+PURL: pkg:cargo/serde_urlencoded@0.7.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
 Paquete: sha2 (0.10.9)
 PURL: pkg:cargo/sha2@0.10.9
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
+Paquete: shlex (2.0.1)
+PURL: pkg:cargo/shlex@2.0.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: signal-hook-registry (1.4.8)
+PURL: pkg:cargo/signal-hook-registry@1.4.8
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: simd-adler32 (0.3.10)
+PURL: pkg:cargo/simd-adler32@0.3.10
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: simdutf8 (0.1.5)
+PURL: pkg:cargo/simdutf8@0.1.5
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: slab (0.4.12)
+PURL: pkg:cargo/slab@0.4.12
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: smallvec (1.16.4)
+PURL: pkg:cargo/smallvec@1.16.4
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: socket2 (0.6.5)
+PURL: pkg:cargo/socket2@0.6.5
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: stable_deref_trait (1.2.1)
+PURL: pkg:cargo/stable_deref_trait@1.2.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: syn (2.0.119)
+PURL: pkg:cargo/syn@2.0.119
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
 Paquete: syn (3.0.9)
 PURL: pkg:cargo/syn@3.0.9
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: synstructure (0.14.0)
+PURL: pkg:cargo/synstructure@0.14.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: time-core (0.1.9)
+PURL: pkg:cargo/time-core@0.1.9
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: time-macros (0.2.32)
+PURL: pkg:cargo/time-macros@0.2.32
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: time (0.3.55)
+PURL: pkg:cargo/time@0.3.55
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: tinystr (0.8.5)
+PURL: pkg:cargo/tinystr@0.8.5
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: tokio-macros (2.7.2)
+PURL: pkg:cargo/tokio-macros@2.7.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: tokio-util (0.7.20)
+PURL: pkg:cargo/tokio-util@0.7.20
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: tokio (1.54.1)
+PURL: pkg:cargo/tokio@1.54.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: tracing-attributes (0.1.31)
+PURL: pkg:cargo/tracing-attributes@0.1.31
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: tracing-core (0.1.36)
+PURL: pkg:cargo/tracing-core@0.1.36
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: tracing (0.1.44)
+PURL: pkg:cargo/tracing@0.1.44
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: typenum (1.20.1)
@@ -85,8 +501,112 @@ Paquete: unicode-ident (1.0.27)
 PURL: pkg:cargo/unicode-ident@1.0.27
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
+Paquete: unicode-segmentation (1.13.3)
+PURL: pkg:cargo/unicode-segmentation@1.13.3
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: unicode-xid (0.2.6)
+PURL: pkg:cargo/unicode-xid@0.2.6
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: url (2.5.8)
+PURL: pkg:cargo/url@2.5.8
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: utf8_iter (1.1.0)
+PURL: pkg:cargo/utf8_iter@1.1.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: utf_types (1.0.0)
+PURL: pkg:cargo/utf_types@1.0.0
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
 Paquete: version_check (0.9.5)
 PURL: pkg:cargo/version_check@0.9.5
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: wasi (0.11.1+wasi-snapshot-preview1)
+PURL: pkg:cargo/wasi@0.11.1%2Bwasi-snapshot-preview1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: wasm-bindgen-macro-support (0.2.130)
+PURL: pkg:cargo/wasm-bindgen-macro-support@0.2.130
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: wasm-bindgen-macro (0.2.130)
+PURL: pkg:cargo/wasm-bindgen-macro@0.2.130
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: wasm-bindgen-shared (0.2.130)
+PURL: pkg:cargo/wasm-bindgen-shared@0.2.130
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: wasm-bindgen (0.2.130)
+PURL: pkg:cargo/wasm-bindgen@0.2.130
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: windows-core (0.62.2)
+PURL: pkg:cargo/windows-core@0.62.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: windows-implement (0.60.2)
+PURL: pkg:cargo/windows-implement@0.60.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: windows-interface (0.59.3)
+PURL: pkg:cargo/windows-interface@0.59.3
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: windows-link (0.2.1)
+PURL: pkg:cargo/windows-link@0.2.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: windows-result (0.4.1)
+PURL: pkg:cargo/windows-result@0.4.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: windows-strings (0.5.1)
+PURL: pkg:cargo/windows-strings@0.5.1
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: windows-sys (0.61.2)
+PURL: pkg:cargo/windows-sys@0.61.2
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: writeable (0.6.4)
+PURL: pkg:cargo/writeable@0.6.4
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: yoke-derive (0.8.4)
+PURL: pkg:cargo/yoke-derive@0.8.4
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: yoke (0.8.4)
+PURL: pkg:cargo/yoke@0.8.4
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: zerofrom-derive (0.1.8)
+PURL: pkg:cargo/zerofrom-derive@0.1.8
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: zerofrom (0.1.8)
+PURL: pkg:cargo/zerofrom@0.1.8
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: zerotrie (0.2.5)
+PURL: pkg:cargo/zerotrie@0.2.5
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: zerovec-derive (0.11.7)
+PURL: pkg:cargo/zerovec-derive@0.11.7
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: zerovec (0.11.9)
+PURL: pkg:cargo/zerovec@0.11.9
+Licencia SPDX: Ver repositorio origen
+-----------------------------------------------------------------
+Paquete: zlib-rs (0.6.8)
+PURL: pkg:cargo/zlib-rs@0.6.8
 Licencia SPDX: Ver repositorio origen
 -----------------------------------------------------------------
 Paquete: zmij (1.0.23)
