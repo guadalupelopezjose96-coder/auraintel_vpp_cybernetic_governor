@@ -2,10 +2,10 @@
   "$schema": "http://cyclonedx.org/schema/bom-1.7.schema.json",
   "bomFormat": "CycloneDX",
   "specVersion": "1.7",
-  "serialNumber": "urn:uuid:af30baa2-878c-4968-96aa-39a626f17607",
+  "serialNumber": "urn:uuid:f595e88e-e903-4d83-a653-8b05127542fb",
   "version": 1,
   "metadata": {
-    "timestamp": "2026-11-01T21:52:13+00:00",
+    "timestamp": "2026-11-02T14:05:38+00:00",
     "tools": {
       "components": [
         {
@@ -20,7 +20,7 @@
       ]
     },
     "component": {
-      "bom-ref": "54982bd0-e027-4825-a05f-9195c82d2831",
+      "bom-ref": "4f7b8fd8-edb6-476e-a417-a8298ee54bbf",
       "type": "application",
       "name": ".",
       "properties": [
@@ -33,7 +33,7 @@
   },
   "components": [
     {
-      "bom-ref": "d2285dac-a82b-4b1a-8190-ceedb9642c4a",
+      "bom-ref": "57e60901-c916-49ac-9f52-d77fee543e1e",
       "type": "application",
       "name": "Cargo.lock",
       "properties": [
@@ -2634,13 +2634,13 @@
   ],
   "dependencies": [
     {
-      "ref": "54982bd0-e027-4825-a05f-9195c82d2831",
+      "ref": "4f7b8fd8-edb6-476e-a417-a8298ee54bbf",
       "dependsOn": [
-        "d2285dac-a82b-4b1a-8190-ceedb9642c4a"
+        "57e60901-c916-49ac-9f52-d77fee543e1e"
       ]
     },
     {
-      "ref": "d2285dac-a82b-4b1a-8190-ceedb9642c4a",
+      "ref": "57e60901-c916-49ac-9f52-d77fee543e1e",
       "dependsOn": [
         "pkg:cargo/auraintel-vpp-cybernetic-governor@1.0.0"
       ]
